@@ -25,3 +25,5 @@ PDF_merger is a Windows Forms application built in C# that allows users to merge
 6. The merged PDF file will be saved with the current date and time in its filename, and the output path will be displayed.
 
 
+## Picture 
+![alt text](https://raw.githubusercontent.com/ik0z/PDF-Merger/main/app.png)
